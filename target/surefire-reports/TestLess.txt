@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestLess
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in TestLess
+initializationError(TestLess)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: Method testLess should have no parameters
+

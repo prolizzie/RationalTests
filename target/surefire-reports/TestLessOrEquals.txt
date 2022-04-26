@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestLessOrEquals
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in TestLessOrEquals
+initializationError(TestLessOrEquals)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: Method testLessOrEqual should have no parameters
+
