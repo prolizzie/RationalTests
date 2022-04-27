@@ -4,7 +4,7 @@
 
 Класс RationalTests содержит следующие проверки:
 
--`void testReduceRational()` проверяет сокращение дробей;
+- `void testReduceRational()` проверяет сокращение дробей;
 - `void testDenominatorIsZero()` проверяет генерацию исключения при попытке деления на ноль;
 - `void testMinusFirstPosition()` проверяет первую позицию минуса (перед числителем);
 
