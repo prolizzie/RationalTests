@@ -20,4 +20,4 @@
 
 
 # Running Tests
-Запуск в терминале с помощью команды: mvn -Dtest=RationalTests test
+Запуск в терминале с помощью команды: `mvn -Dtest=RationalTests test` (перед этим потребуется установить Maven)
